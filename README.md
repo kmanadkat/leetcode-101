@@ -2,7 +2,6 @@
 
 I chose python over c++ this time because it is more declarative and easy to build large algorithms with less lines of code. It has sufficiently large inbuilt functions for every data structure.
 
-
 ### List
 
 - [x] Find Average
@@ -16,8 +15,15 @@ I chose python over c++ this time because it is more declarative and easy to bui
 - [x] Left Rotate One
 - [x] Left Rotate N Times
 
-
-
 ### String
 
 - [x] Reverse String
+- [x] Find All Occurrences
+- [x] Check Palindrome
+- [x] Check Anagram
+- [x] Vowels
+- [x] Distinct Vowels
+- [x] Count Words
+- [x] String Validation
+- [x] Check Panagram
+- [x] Missing Panagram
