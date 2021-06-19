@@ -27,3 +27,8 @@ I chose python over c++ this time because it is more declarative and easy to bui
 - [x] String Validation
 - [x] Check Panagram
 - [x] Missing Panagram
+
+### Hashing
+
+- [x] Count Distint Items
+- [x] Sub Array Sum 0
