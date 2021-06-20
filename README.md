@@ -32,3 +32,4 @@ I chose python over c++ this time because it is more declarative and easy to bui
 
 - [x] Count Distint Items
 - [x] Sub Array Sum 0
+- [x] String Permutation Palindrome
