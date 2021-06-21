@@ -37,3 +37,13 @@ I chose python over c++ this time because it is more declarative and easy to bui
 - [x] Print Non Repeated Numbers
 - [x] Two Sum
 - [x] Election Win & Lexicographically Smaller
+
+### Recursion
+
+- [x] Natural Numbers Sum
+- [x] Print N to One numbers
+- [x] Sum Of Digits
+- [x] Tower Of Hanoi
+- [x] Josephus Problem
+- [x] Is Number Palindrome
+- [x] Find GCD
